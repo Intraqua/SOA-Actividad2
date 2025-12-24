@@ -12,7 +12,7 @@ Este proyecto implementa un programa en C para Linux que lista los ficheros del 
 
 - `lista_size.c` - Programa en C que obtiene la lista de ficheros y sus tamaños
 - `tamanos.sh` - Script de bash que analiza el fichero generado
-- `SOA_Actividad_2_David_Valbuena_Segura.docx` - Documentación completa de la actividad
+- `SOA-Actividad2_David_Valbuena_Segura.docx` - Documentación completa de la actividad
 
 ## Requisitos previos
 
@@ -87,10 +87,12 @@ cat /tmp/lista_sz
 
 Verás algo como:
 ```
-lista_size 17512
-lista_size.c 2145
-tamanos.sh 1834
-README.md 3421
+.gitattributes 66
+lista_size 16592
+lista_size.c 2172
+Prueba de archivo con espacios.txt 117
+README.md 5009
+tamanos.sh 2666
 ```
 
 ## Características técnicas
